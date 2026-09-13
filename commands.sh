@@ -1,10 +1,12 @@
 #!/bin/bash
 
-echo "Python and Bash Assignment"
-echo "Current directory:"
+echo "===== Python & Bash Assignment ====="
+echo "Calculator Project"
+echo ""
+echo "Current Directory:"
 pwd
-
-echo "Files in the project:"
+echo ""
+echo "Project Files:"
 ls -l
-
+echo ""
 echo "Bash script executed successfully."

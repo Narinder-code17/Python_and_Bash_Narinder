@@ -1,3 +1,0 @@
-Hello, this is my Python file handling assignment.
-Python can create and write data into text files.
-This file was created using open() and write().
